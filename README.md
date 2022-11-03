@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Highschool student
+- Aspiring Malware and Hacking Tool Dev
+- Currently working on a C2 framework
